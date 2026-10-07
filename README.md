@@ -7,4 +7,4 @@ Official repository for **Train Speed Meter** — a simple and fast web tool to 
 - No app installation required (runs directly in mobile browsers).
 - Battery-efficient and lightweight live tracking interface.
 
-Check your live train speed now: [Train Speed Meter](https://trainspeedmeter.com))
+Check your live train speed now: [Train Speed Meter](https://trainspeedmeter.com)
